@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR3ef088/jc/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 附錄
+  hash: sha256:2e87bd6ba50dad79501dad0f089e8d2c981b2860bc4d83184433e1a56003d8df
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ef088_jc_000-d28.h1s1}
+  - {type: 'tls:div-start', offset: 2, content: '', id: KR3ef088_jc_000-d28d2, level: 2, head_text: 卷二十三}
+metadata:
+  title: 金匱懸解
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ef088.xml
+hash: sha256:24c4beba9164d27ca8cedd8051f438d661e5f3f0209798645b62773855aa6a89
