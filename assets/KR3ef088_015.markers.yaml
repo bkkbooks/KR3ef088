@@ -829,7 +829,6 @@ markers:
   - {type: 'tls:seg', offset: 1828, content: '', id: KR3ef088_jc_015-d20.d2.d4.d3.p4s6}
   - {type: punctuation, offset: 1833, content: ，, id: KR3ef088_jc_015-bkkpn394}
   - {type: 'tls:seg', offset: 1833, content: '', id: KR3ef088_jc_015-d20.d2.d4.d3.p4s7}
-  - {type: substitution, offset: 1836, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: punctuation, offset: 1837, content: ，, id: KR3ef088_jc_015-bkkpn395}
   - {type: 'tls:seg', offset: 1837, content: '', id: KR3ef088_jc_015-d20.d2.d4.d3.p4s8}
   - {type: punctuation, offset: 1841, content: 。, id: KR3ef088_jc_015-bkkpn396}
@@ -1088,7 +1087,6 @@ markers:
   - {type: 'tls:seg', offset: 2296, content: '', id: KR3ef088_jc_015-d20.d2.d4.d6.p4s10}
   - {type: punctuation, offset: 2301, content: ，, id: KR3ef088_jc_015-bkkpn515}
   - {type: 'tls:seg', offset: 2301, content: '', id: KR3ef088_jc_015-d20.d2.d4.d6.p4s11}
-  - {type: substitution, offset: 2301, original: 樸, replacement: 朴, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3880}}
   - {type: punctuation, offset: 2302, content: 、, id: KR3ef088_jc_015-bkkpn516}
   - {type: 'tls:seg', offset: 2302, content: '', id: KR3ef088_jc_015-d20.d2.d4.d6.p4s12}
   - {type: punctuation, offset: 2303, content: 、, id: KR3ef088_jc_015-bkkpn517}
@@ -1704,4 +1702,4 @@ markers:
   - {type: 'tls:seg-end', offset: 3239, content: '', id: KR3ef088_jc_015-d20.d2.d5.p18s11_end, seg_type: comm}
   - {type: xml-element, offset: 3239, content: '', id: KR3ef088_jc_015-d20.d2.d5p18_end, name: p, role: close, attrs: {'xml:id': KR3ef088_jc_015-d20.d2.d5p18}}
   back: []
-hash: sha256:a0dc8819ef3dc1bded41c96da92579b03947fae0ef4de6df7c733b6ea9415747
+hash: sha256:b2098d28a67d4088867b61df171dc9c0f95436476f87c92b8adfcc357625cbad
