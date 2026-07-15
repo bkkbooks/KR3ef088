@@ -829,6 +829,7 @@ markers:
   - {type: 'tls:seg', offset: 1828, content: '', id: KR3ef088_jc_015-d20.d2.d4.d3.p4s6}
   - {type: punctuation, offset: 1833, content: ，, id: KR3ef088_jc_015-bkkpn394}
   - {type: 'tls:seg', offset: 1833, content: '', id: KR3ef088_jc_015-d20.d2.d4.d3.p4s7}
+  - {type: substitution, offset: 1836, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20837}}
   - {type: punctuation, offset: 1837, content: ，, id: KR3ef088_jc_015-bkkpn395}
   - {type: 'tls:seg', offset: 1837, content: '', id: KR3ef088_jc_015-d20.d2.d4.d3.p4s8}
   - {type: punctuation, offset: 1841, content: 。, id: KR3ef088_jc_015-bkkpn396}
@@ -1087,6 +1088,7 @@ markers:
   - {type: 'tls:seg', offset: 2296, content: '', id: KR3ef088_jc_015-d20.d2.d4.d6.p4s10}
   - {type: punctuation, offset: 2301, content: ，, id: KR3ef088_jc_015-bkkpn515}
   - {type: 'tls:seg', offset: 2301, content: '', id: KR3ef088_jc_015-d20.d2.d4.d6.p4s11}
+  - {type: substitution, offset: 2301, original: 樸, replacement: 朴, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20163}}
   - {type: punctuation, offset: 2302, content: 、, id: KR3ef088_jc_015-bkkpn516}
   - {type: 'tls:seg', offset: 2302, content: '', id: KR3ef088_jc_015-d20.d2.d4.d6.p4s12}
   - {type: punctuation, offset: 2303, content: 、, id: KR3ef088_jc_015-bkkpn517}
@@ -1702,4 +1704,4 @@ markers:
   - {type: 'tls:seg-end', offset: 3239, content: '', id: KR3ef088_jc_015-d20.d2.d5.p18s11_end, seg_type: comm}
   - {type: xml-element, offset: 3239, content: '', id: KR3ef088_jc_015-d20.d2.d5p18_end, name: p, role: close, attrs: {'xml:id': KR3ef088_jc_015-d20.d2.d5p18}}
   back: []
-hash: sha256:b2098d28a67d4088867b61df171dc9c0f95436476f87c92b8adfcc357625cbad
+hash: sha256:ad6df87e57b0819366f7f005d9eb072398672cd32e706bf12e1521c2cdb3ceee

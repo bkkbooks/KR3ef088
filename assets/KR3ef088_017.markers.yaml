@@ -209,6 +209,7 @@ markers:
   - {type: 'tls:seg', offset: 491, content: '', id: KR3ef088_jc_017-d22.d2.d3.d8.p4s12}
   - {type: punctuation, offset: 495, content: ，, id: KR3ef088_jc_017-bkkpn98}
   - {type: 'tls:seg', offset: 495, content: '', id: KR3ef088_jc_017-d22.d2.d3.d8.p4s13}
+  - {type: substitution, offset: 496, original: 慄, replacement: 栗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17105}}
   - {type: punctuation, offset: 502, content: ）, id: KR3ef088_jc_017-bkkpn99}
   - {type: punctuation, offset: 502, content: 。, id: KR3ef088_jc_017-bkkpn100}
   - {type: 'tls:seg-end', offset: 502, content: '', id: KR3ef088_jc_017-d22.d2.d3.d8.p4s13_end, seg_type: comm}
@@ -1143,6 +1144,7 @@ markers:
   - {type: 'tls:seg', offset: 2381, content: '', id: KR3ef088_jc_017-d22.d2.d3.d20.p4s18}
   - {type: punctuation, offset: 2382, content: 、, id: KR3ef088_jc_017-bkkpn532}
   - {type: 'tls:seg', offset: 2382, content: '', id: KR3ef088_jc_017-d22.d2.d3.d20.p4s19}
+  - {type: substitution, offset: 2382, original: 樸, replacement: 朴, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20163}}
   - {type: punctuation, offset: 2383, content: 、, id: KR3ef088_jc_017-bkkpn533}
   - {type: 'tls:seg', offset: 2383, content: '', id: KR3ef088_jc_017-d22.d2.d3.d20.p4s20}
   - {type: punctuation, offset: 2385, content: ，, id: KR3ef088_jc_017-bkkpn534}
@@ -1236,6 +1238,7 @@ markers:
   - {type: 'tls:seg', offset: 2525, content: '', id: KR3ef088_jc_017-d22.d2.d3.d21.p4s6}
   - {type: punctuation, offset: 2526, content: 、, id: KR3ef088_jc_017-bkkpn576}
   - {type: 'tls:seg', offset: 2526, content: '', id: KR3ef088_jc_017-d22.d2.d3.d21.p4s7}
+  - {type: substitution, offset: 2526, original: 樸, replacement: 朴, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20163}}
   - {type: punctuation, offset: 2527, content: ，, id: KR3ef088_jc_017-bkkpn577}
   - {type: 'tls:seg', offset: 2527, content: '', id: KR3ef088_jc_017-d22.d2.d3.d21.p4s8}
   - {type: punctuation, offset: 2530, content: ，, id: KR3ef088_jc_017-bkkpn578}
@@ -2091,4 +2094,4 @@ markers:
   - {type: punctuation, offset: 4050, content: 。, id: KR3ef088_jc_017-bkkpn970}
   - {type: xml-element, offset: 4050, content: '', id: KR3ef088_jc_017-d22.d2.d6p6_end, name: p, role: close, attrs: {'xml:id': KR3ef088_jc_017-d22.d2.d6p6}}
   back: []
-hash: sha256:f050dba6ed599c834bca4269e8872df4b903fe8acef553bd588be94d978d79a2
+hash: sha256:31ed5104b89d571f7000ec18956ebc50f1a2c515ae4437a9509347dd2c9a9a92
